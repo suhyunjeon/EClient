@@ -6,5 +6,5 @@ Jest client 로 elasticsearch 사용하기 목업 코드
 - https://www.elastic.co/downloads/elasticsearch  
 
 # 실행
-http://localhost:9200/diet  
-http://localhost:9200/diet/dieter/1   
+- http://localhost:9200/diet  
+- http://localhost:9200/diet/dieter/1   
